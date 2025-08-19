@@ -2,7 +2,7 @@
 
 💫I'm a Computer Science student based in Chicago<br/>
 💫Studying Econ as well!<br/>
-💫I Love playing guitar and Piano<br/>
+💫I love playing guitar and piano<br/>
 💫And currently learning how to code with Python and C++<br/>
 
 ## 🌐 Socials:
