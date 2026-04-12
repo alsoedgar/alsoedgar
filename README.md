@@ -1,9 +1,8 @@
 ## HIII, I'm Edgar ( ◡̀_◡́)ᕤ
 
 💫I'm a Computer Science student based in Chicago<br/>
-💫Studying Econ as well!<br/>
+💫Studying math as well!<br/>
 💫I love playing guitar and piano<br/>
-💫And currently learning how to code with Python and C++<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alsoedgar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edgarmald) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maldonadoedgar2908@gmail.com) 
